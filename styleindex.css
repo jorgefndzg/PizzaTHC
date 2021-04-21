@@ -1,0 +1,168 @@
+*{
+    font-family:sans-serif;
+}
+
+header {
+    padding: 156px 0 100px;
+  }
+  
+  section {
+    padding: 150px 0;
+  }
+#navbarResponsive{
+    padding-bottom: 20px;
+    padding-left:810px;
+}   
+#navbarResponsive ul{
+  width:400px;
+}   
+
+#mainNav{
+    background-color: #C0C0C0;
+    padding-bottom: 0;
+    padding-top: 0;
+    color: #47525E;
+    padding-left: 2px;
+}
+*{
+  color: #47525E;
+  font-family: "Bree Serif";
+}
+
+.container{
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#primeraparte{
+  padding-top: 300px;
+  width: 500px;
+}
+
+@font-face {
+  font-family: "Bree Serif";
+  src: url("BreeSerif-Regular.ttf");
+}
+
+#pizzathc{
+  width:115px;
+  font-size:64px ;
+}
+
+#primeraparte h1{
+  font-size: 64px;
+  color: white;
+}
+
+#primercuadro{
+  background-color: #C0C0C0;
+  padding-top: 80px;
+  background-image: url("imgprincipal.jpg");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#slide1{
+  background-image: url("margarita.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  }
+
+
+#slide2{
+  background-image: url("greenpoison.jpg");
+
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+#slide3{
+  background-image: url("argentina.jpg");
+
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+body{
+  background-color:  #C0C0C0;
+}
+
+.titulo{
+  padding-top: 30px;
+  padding-bottom: 30px;
+
+   
+}
+.titulo h1{
+  font-size: 85;
+}
+
+#carouselExampleIndicators{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+#mainNav a{
+  color:  #47525E;
+
+}
+
+.dropdown-menu {
+  background-color: #8f8f8f;
+  color: white;
+  border :hidden;
+  font-size: 10px;
+  width: 200px;
+  margin-right: 20px;
+}
+
+
+.dropdown-menu h1{
+
+  font-size: 20px;
+  background-color: #FF4545;
+  color: white;
+}
+.dropdown-menu a{
+
+  color: white;
+}
+
+#ficha{
+  padding-left: 30px;
+  width:100%;
+}
+
+#argentinap{
+  background-image: url("argentina.jpg");
+}
+
+
